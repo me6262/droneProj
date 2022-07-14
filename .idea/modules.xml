@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PLEASE/.idea/PLEASE.iml" filepath="$PROJECT_DIR$/PLEASE/.idea/PLEASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject5.iml" filepath="$PROJECT_DIR$/.idea/pythonProject5.iml" />
+      <module fileurl="file://$USER_HOME$/Favorites/tello-adv-setup-master/.idea/tello-adv-setup-master.iml" filepath="$USER_HOME$/Favorites/tello-adv-setup-master/.idea/tello-adv-setup-master.iml" />
+    </modules>
+  </component>
+</project>
